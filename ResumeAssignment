@@ -1,0 +1,87 @@
+<html>
+    <head>
+    <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/journal/bootstrap.min.css" crossorigin="anonymous">
+    
+    </head>
+    <body>
+        <ul>
+            <br>
+            <a href="#Objectives" align="center"> <u>Objectives</u></a><br />
+        
+            <a href="#Experience" align="center"> <u>Experience</u></a><br /></li>
+
+            <a href="#Education" align="center"> <u>Education</u
+            </a><br />
+        
+            <a href="#Skills" align="center"> <u>Skills</u></a><br />
+        </ul>
+        
+        <h1 align="center"><b>LERAY, TALIA - RESUME</b></h1>
+        <br>
+        
+        <ul>
+        <h2 id="Objectives"></h2>
+            <h3><font color="orange"><b>Objectives</b></font></h3>
+            <p><i>To obtain a position within PwC's technology consulting practice where I will be able to apply applicable skills to solving business problems for the firm's top clients.</i></p>
+            <br>
+
+        
+        <h3 id="Experience"></h3>
+            <h3><font color="purple"><b>Experience</b></font></h3>
+            <p>
+                
+            <b>Goldman Sachs Securities Sales & Trading | Summer Analyst | June 2016 - July 2016</b>
+            <br> 
+            <ul>
+                <li>Completed 8-week rotational program in FICC Franchise and Equities Franchise Business with 224 Securities interns</li>
+                
+                <li>Partnered with a fellow intern to create metrics report provided to senior professionals spearheading the business group</li>
+                
+                <li>Contributed topic reviews to manual project for new launch hedge fund clients </li>
+                
+                <li>Worked with six interns to compile weekly hedge fund newsletter for Sales & Capital Introduction team in the US region</li>
+            </ul>
+            <br>
+            <b>Moody’s Investor’s Service: Corporate Finance Group | Summer Intern |                                      June 2015 - August 2015</b>
+            <br> 
+            <ul>
+                <li>Collected requested data from 10K and 10Q filings for 68 companies to update database to most recent data</li>
+                
+                <li>Contributed collected data to Defense Contractor Liquidity Index Update Report published in September 2015</li>
+                
+                <li>Composed Retail Sector Glossary of 40 terms for Managing Director of Retail in CFG for new Associate Analysts </li>
+            </ul>
+            </p>
+            <br>
+            <h3 id="Education"></h3>
+                <h3><font color="sky blue"><b>Education</b></font></h3>
+            
+            <b>Howard University School of Business, Washington, DC</b>
+            <ul>
+                <li>Major: Computer Information Systems</li>
+                <li>GPA: 3.82 out of 4.0 scale</li>
+                <li>Expected Graduation: May 2018</li>
+
+            </ul>
+            <br>
+            
+        <h2 id="Skills"></h2>
+                <h3><font color="green"><b>Skills</b></font></h3>
+            <ul>
+                
+               <li>Database management, Beginner level SQL database language</li>
+               <li>Intro to Software Design course (beginner level in problem definition, flowcharts, algorithms, and pseudocode)</li>
+               <li>Intro to Java Programming language experience</li>
+               
+            </ul>
+            <br>
+        </ul>
